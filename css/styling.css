@@ -1,0 +1,52 @@
+/* Global styles */
+body{
+    font-size: 120%;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+    background-color: #191919;
+    color:white;
+}
+a{
+    color: lightskyblue;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: grey;
+}
+header{
+    font-size: 80%;
+    text-align: left;
+}
+h2{
+    color:#B23A48;
+}
+ul{
+    margin-top:0;
+}
+article{
+    padding: 10px;
+    display: inline;
+}
+
+/* About Me */
+#about_me{
+    width: 76%;
+}
+
+/* Projects */
+#projects ul{
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+/* Coursework */
+table, th, td {
+    border-bottom: 1px solid #788585;
+    border-collapse: collapse;
+    padding: 10px;
+}
+th{
+    text-align: left;
+}
