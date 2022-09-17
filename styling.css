@@ -30,11 +30,6 @@ article{
     display: inline;
 }
 
-/* About Me */
-#about_me{
-    width: 76%;
-}
-
 /* Projects */
 #projects ul{
     padding-bottom: 10px;
